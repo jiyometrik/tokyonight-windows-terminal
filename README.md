@@ -1,6 +1,6 @@
 # tokyonight-windows-terminal
 
-An unofficial port of [@enkia](https://github.com/enkia)'s amazing [Tokyo Night colorscheme](https://github.com/enkia/tokyo-night-vscode-theme) for [Windows Terminal](https://github.com/microsoft/terminal).
+An ~un~official port of [@enkia](https://github.com/enkia)'s amazing [Tokyo Night colorscheme](https://github.com/enkia/tokyo-night-vscode-theme) for [Windows Terminal](https://github.com/microsoft/terminal).
 
 ## How to Use
 
