@@ -2,11 +2,10 @@
 
 An ~un~official port of [@enkia](https://github.com/enkia)'s amazing [Tokyo Night colorscheme](https://github.com/enkia/tokyo-night-vscode-theme) for [Windows Terminal](https://github.com/microsoft/terminal).
 
-## How to Use
+## Usage
 
 Paste the contents of the file containing your variant of choice into your Windows Terminal configuration file.
-
-(See also: https://docs.microsoft.com/en-us/windows/terminal/customize-settings/color-schemes)
+See [here](https://docs.microsoft.com/en-us/windows/terminal/customize-settings/color-schemes) for help!
 
 ## Screenshots
 
