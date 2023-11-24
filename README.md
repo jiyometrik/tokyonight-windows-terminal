@@ -1,6 +1,6 @@
 # tokyonight-windows-terminal
 
-An ~un~official port of [@enkia](https://github.com/enkia)'s amazing [Tokyo Night colorscheme](https://github.com/enkia/tokyo-night-vscode-theme) for [Windows Terminal](https://github.com/microsoft/terminal).
+A port of [@enkia](https://github.com/enkia)'s amazing [Tokyo Night colorscheme](https://github.com/enkia/tokyo-night-vscode-theme) for [Windows Terminal](https://github.com/microsoft/terminal).
 
 ## Usage
 
@@ -9,7 +9,8 @@ See [here](https://docs.microsoft.com/en-us/windows/terminal/customize-settings/
 
 ## Screenshots
 
-Featured with [lazygit](https://github.com/jesseduffield/lazygit).
+Featured with [lazygit](https://github.com/jesseduffield/lazygit). For you geeks out there,
+the font used is [Victor Mono](https://rubjo.github.io/victor-mono/)!
 
 <div align="center">
 	<h3>Night</h3>
